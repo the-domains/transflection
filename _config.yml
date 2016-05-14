@@ -1,0 +1,14 @@
+layout_spectrum: 0.4088528291322291
+typography_spectrum: 0.47339936858043075
+color:
+  brandStrength: 0.3102311498951167
+  lightness: 0.512962190201506
+  saturation: 0.6588069426361471
+  rhythmicContrast: 0.27299312106333673
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Transflection
